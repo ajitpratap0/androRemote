@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ajit Pratap Singh\.android\build-cache\b391b7b52f721084d5854aed6b328faf318b0cf8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1d180ef7a6c43ee27051c61a97eb7d8571db82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3c590ce8e04c71ad7868d7a8ec71655562e43ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ajit Pratap Singh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_20bed90ed94ee3c3702c9b8f668bfc980479e156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f9ee40e666899dba91059091da98b99f5412a41">
+        <dex dex="C:\Users\Ajit Pratap Singh\Downloads\Compressed\androRemote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9eeff488c90a764cf1266328559061f81f39324\classes.dex" />
+    </item>
+
+</items>
